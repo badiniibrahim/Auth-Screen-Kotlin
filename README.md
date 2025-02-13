@@ -31,7 +31,7 @@ Figma (Design tool)
 
 Clone the repository
 
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/badiniibrahim/Auth-Screen-Kotlin.git
 
 Open the project in Android Studio (latest version recommended)
 
