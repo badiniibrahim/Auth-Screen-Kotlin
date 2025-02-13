@@ -2,7 +2,7 @@
 
 Welcome to this authentication screen project developed with Jetpack Compose. This project was designed based on a Figma prototype.
 
-📌 Features
+## 📌 Features
 
 Modern and intuitive interface based on a Figma design
 
@@ -16,7 +16,7 @@ Interactive login button
 
 Light and dark mode support
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Kotlin (Main programming language)
 
@@ -30,8 +30,9 @@ Figma (Design tool)
 🚀 Installation
 
 Clone the repository
-
-   git clone https://github.com/badiniibrahim/Auth-Screen-Kotlin.git
+   ```bash
+      git clone https://github.com/badiniibrahim/Auth-Screen-Kotlin.git
+   ```
 
 Open the project in Android Studio (latest version recommended)
 
@@ -40,10 +41,10 @@ Sync dependencies
 Run the application on an emulator or physical device
 
 
-🎨 Design Preview (Figma)
+## 🎨 Design Preview (Figma)
 
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License. Feel free to modify and distribute it.
 
